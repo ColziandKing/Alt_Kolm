@@ -14,6 +14,13 @@
 		"uniques": ["New [Military] units start with [500] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
+	{
+		"name": "Courthouse",
+		"maintenance": 4,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities"],
+		"requiredTech": "Mathematics"
+	},
     {
         "name": "Cloves",
         "uniqueTo": "Indonesia",
