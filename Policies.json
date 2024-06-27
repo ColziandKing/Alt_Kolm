@@ -186,13 +186,14 @@
 		"policies": [
 			{
 				"name": "Philantropy",
-				"uniques":["Gifts of Gold to City-States generate [25]% more Influence"],
+				"uniques":["Gifts of Gold to City-States generate [25]% more Influence","[+25]% [Gold] [in capital]"],
 				"row": 1,
 				"column": 2
 			},
 			{
 				"name": "Consulates",
-				"uniques":["Resting point for Influence with City-States is increased by [20]"],
+				"uniques":["Resting point for Influence with City-States is increased by [20]",
+						"[Great Artist] is earned [25]% faster",],
 				"row": 1,
 				"column": 4
 			},
@@ -205,7 +206,7 @@
 			},
 			{
 				"name": "Cultural Diplomacy",
-				"uniques": ["[+100]% resources gifted by City-States",
+				"uniques": ["[+100]% resources gifted by City-States","[+25]% [Culture] [in all cities]",
 					"[+50]% Happiness from luxury resources gifted by City-States"],
 				"requires": ["Scholasticism"],
 				"row": 3,
@@ -214,13 +215,15 @@
 			{
 				"name": "Educated Elite",
 				"requires": ["Scholasticism","Consulates"],
-				"uniques": ["Allied City-States will occasionally gift Great People"],
+				"uniques": ["Allied City-States will occasionally gift Great People",
+						"[+25]% [Science] [in all cities]",],
 				"row": 3,
 				"column": 3
 			},
 			{
 				"name": "Patronage Complete",
-				"uniques": ["Influence of all other civilizations with all city-states degrades [33]% faster", 
+				"uniques": ["[+25]% [Faith] [in all cities]","[+25]% [Food] [in all cities]","[+25]% [Happiness] [in all cities]",
+					"Influence of all other civilizations with all city-states degrades [33]% faster", 
 					"Triggers the following global alert: [Our influence with City-States has started dropping faster!]"]
 			} 
 		]
