@@ -193,7 +193,7 @@
 			{
 				"name": "Consulates",
 				"uniques":["Resting point for Influence with City-States is increased by [20]",
-						"[Great Artist] is earned [25]% faster",],
+						"[Great Artist] is earned [25]% faster"],
 				"row": 1,
 				"column": 4
 			},
@@ -216,7 +216,7 @@
 				"name": "Educated Elite",
 				"requires": ["Scholasticism","Consulates"],
 				"uniques": ["Allied City-States will occasionally gift Great People",
-						"[+25]% [Science] [in all cities]",],
+						"[+25]% [Science] [in all cities]"],
 				"row": 3,
 				"column": 3
 			},
