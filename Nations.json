@@ -838,11 +838,9 @@
 		"name": "Wellington",
 		"adjective": ["Wellington"],
 		
-			"uniques": [
 			"uniques": ["[+1 Gold] from every [Water resource]", 
 						"[{Military} {Water}] units gain the [Supply] promotion","[+10]% [Culture] [in capital]", 
-						"[+1 Culture] from every [Plantation]",
-			],
+						"[+1 Culture] from every [Plantation]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
