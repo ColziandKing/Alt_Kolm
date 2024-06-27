@@ -372,7 +372,8 @@
 	{
 		"name": "Rationalism",
 		"era": "Renaissance era",
-		"uniques": ["[+10]% [Science] <while the empire is happy>", "Unlocks building the Porcelain Tower"],
+		"uniques": ["[+10]% [Science] <while the empire is happy>", "Unlocks building the Porcelain Tower",
+				"Only available <before adopting [Autocracy]>", "Only available <before adopting [Order]>"],
 		"policies": [
 			{
 				"name": "Secularism",
@@ -461,7 +462,7 @@
 	{
 		"name": "Autocracy",
 		"era": "Industrial era",
-		"uniques": ["[Gold] cost of purchasing [All] units [-33]%", "Unlocks building the Prora",
+		"uniques": ["[Gold] cost of purchasing [All] units [-33]%", "Unlocks building the Prora", "Only available <before adopting [Rationalism]>",
 			"Only available <before adopting [Order]>", "Only available <before adopting [Freedom]>"],
 		"policies": [
 			{
@@ -506,7 +507,7 @@
 	{
     "name": "Order",
     "era": "Industrial era",
-	"uniques": ["[+2 Happiness] from every [Monument]", "Unlocks building the Kremlin", "Only available <before adopting [Autocracy]>", "Only available <before adopting [Freedom]>"],
+	"uniques": ["[+2 Happiness] from every [Monument]", "Unlocks building the Kremlin", "Only available <before adopting [Rationalism]>", "Only available <before adopting [Autocracy]>", "Only available <before adopting [Freedom]>"],
     "policies": [
         {
             "name": "Young Pioneers",
