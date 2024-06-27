@@ -44,7 +44,7 @@
 		"outerColor": [251,255,206],
 		"innerColor": [255,177,9],
 		"uniqueName": "Treasures of Nineveh",
-		"uniques": ["[+25]% [Science] [in annexed cities]"]
+		"uniques": ["[+25]% [Science] [in annexed cities]"],
 		"cities": ["Assur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Sharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
 			"Shubat-Enlil","Qatna","Sareisa","Sam al","Qarqar","Til Barsip","Sultantepe","Erbil","Hamath","Guzana",
 			"Turuspa","Nasibina","Arpad","Kelashin","Urartu","Sabata","Hit"]
@@ -144,6 +144,7 @@
 		"innerColor": [167,52,31],
 		"uniqueName": "Spice Islanders",
 		"uniqueText": " After researching Astronomy, 3 coastal cities each provide 2 copies of unique Luxury Resources",
+		"uniques": ["Free [Great Merchant] appears <upon discovering [Astronomy] technology>","Provides [1] [Porcelain]","Provides [1] [Jewelry]"],
 		"cities": ["Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
 			"Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
 			"Malang","Padang","Ternate","Banjarmasin","Pontianak","Cimahi","Balikpapan","Jambi","Komodo","Solo",
@@ -276,6 +277,8 @@
 	{
 		"name": "Brussels",
 		"adjective": ["Bruxellois"],
+		
+		"uniques": ["[-10]% Culture cost of adopting new Policies"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -287,6 +290,8 @@
 	{
 		"name": "Florence",
 		"adjective": ["Florentine"],
+		
+		"uniques": ["[+25]% [Science] [in annexed cities]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -311,6 +316,9 @@
 		"name": "Kuala Lumpur",
 		"adjective": ["KLite"],
 
+		
+		"uniques": ["[-50]% maintenance costs <for [Sword] units>","[-50]% maintenance costs <for [Gunpowder] units>","[+50]% XP gained from combat <for [Military] units>"],
+
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Today, the Malay people obey you, but do not think this is over...",
@@ -321,6 +329,8 @@
 	{
 		"name": "Milan",
 		"adjective": ["Milanese"],
+		
+		"uniques": ["[+3 Gold] from every [Luxury resource]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -332,6 +342,8 @@
 	{
 		"name": "Bratislava",
 		"adjective": ["Bratislava"],
+		
+		"uniques": ["Free [Great Merchant] appears <upon discovering [Astronomy] technology>","Provides [1] [Porcelain]","Provides [1] [Jewelry]"],
 
 		"declaringWar": "I didn't want to do this. We declare war.",
 		"attacked": "I will fear no evil. For god is with me!",
@@ -343,6 +355,8 @@
 	{
 		"name": "Quebec City",
 		"adjective": ["QuÃ©bÃ©cois"],
+		
+		"uniques": ["[+1 Culture, +2 Gold] from each Trade Route"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -355,6 +369,8 @@
 	{
 		"name": "Cape Town",
 		"adjective": ["Cape Town"],
+		
+		"uniques": ["[+100]% [Gold] [in capital]","Receive free [Settler] when you discover [Currency]","Receive free [Settler] when you discover [Banking]","Cannot build [Settler] units"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -366,6 +382,8 @@
 	{
 		"name": "Manila",
 		"adjective": ["Manilan"],
+		
+		"uniques": ["[+2 Culture] [in capital] <starting from the [Ancient era]>","[+2 Culture] [in capital] <starting from the [Medieval era]>","[+2 Culture] [in capital] <starting from the [Industrial era]>","[+2 Culture] [in capital] <starting from the [Atomic era]>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -389,6 +407,8 @@
 	{
 		"name": "Sydney",
 		"adjective": ["Sydney"],
+		
+		"uniques": ["[+50]% [Culture] [in all cities] <during a Golden Age>","[Great Artist] is earned [50]% faster <during a Golden Age>"],
 
 		"declaringWar": "After thorough deliberation, Australia finds itself at a crossroads. Prepare yourself, for war is upon us.",
 		"attacked": "We will mobilize every means of resistance to stop this transgression against our nation!",
@@ -401,6 +421,8 @@
 		"name": "Ur",
 		"adjective": ["Ur"],
 		"startBias": ["Coast"],
+		
+		"uniques": ["[+2 Science] [in capital]","[Land] units gain the [Cradle of Civilizations] promotion"],
 
 		"declaringWar": "I will enjoy hearing your last breath as you witness the destruction of your realm!",
 		"attacked": "Why do we fight? Because Inanna demands it. Now, witness the power of the Sumerians!",
@@ -413,6 +435,8 @@
 		"name": "Vancouver",
 		"translatedName": "Vancouver",
 		"adjective": ["Vancouverite"],
+		
+		"uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[-25]% Culture cost of natural border growth [in all cities]"],
 
 		"declaringWar": "In responding to the unstinting malignancy that has heretofore defined your relationship with Canada, we can have no recourse but war!",
 		"attacked": "As we can reach no peaceful resolution with you, Canada must turn, with reluctance, to war.",
@@ -425,6 +449,8 @@
 		"name": "Antwerp",
 		"adjective": ["Antwerp"],
 		"startBias": ["Coast"],
+		
+		"uniques": ["Damage is ignored when determining unit Strength <for [non-air] units>","[+1 Culture] from every [Fishing Boats]","[+2 Culture] from every [Atoll]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -437,6 +463,8 @@
 		"name": "Genoa",
 		"adjective": ["Genoese"],
 		"startBias": ["Coast"],
+		
+		"uniques": ["[+1 Gold] from every [Luxury resource]","[1] Movement point cost to disembark <for [All] units>","[1] Movement point cost to embark <for [All] units>","[+1 Culture] from every [Trading post]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -448,6 +476,8 @@
 	{
 		"name": "Singapore",
 		"adjective": ["Singaporean"],
+		
+		"uniques": ["[+25]% Strength <for [Wounded] units>","[+1 Happiness] from every [Barracks]","[+1 Food] from every [Plantation]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -460,6 +490,8 @@
 		"name": "Tyre",
 		"adjective": ["Tyrian"],
 		"startBias": ["Coast"],
+		
+		"uniques": ["Starts with [Sailing]","[+1 Gold] from every [Fishing Boats]","[+50]% Production when constructing [Work Boats] units [in all cities]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -483,6 +515,8 @@
 	{
 		"name": "Cahokia",
 		"adjective": ["Cahokia"],
+		
+		"uniques": ["Gain a free [Free Terracotta] [in all cities]","[+1 Science] from every [Iron]","[10]% Food is carried over after population increases [in all cities]"],
 
 		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
 		"attacked": "Very well, we will kick you back to the ancient era!",
@@ -494,6 +528,8 @@
 	{
 		"name": "Hanoi",
 		"adjective": ["Hanoi"],
+		
+		"uniques": ["[+10]% Production when constructing [Military] units [in all cities]","[+1 Gold] from every [Horses]","[+1 Production] from every [Horses]","[+1 Gold] from every [Iron]","[+1 Production] from every [Iron]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -505,6 +541,8 @@
 	{
 		"name": "Almaty",
 		"adjective": ["Almaty"],
+		
+		"uniques": ["Double quantity of [Horses] produced","[Mounted] units gain the [Ignore terrain cost] promotion","[+1 Food, +1 Culture, +1 Production] from every [Mountain]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -516,6 +554,8 @@
 	{
 		"name": "Belgrade",
 		"adjective": ["Belgrade"],
+		
+		"uniques": ["Double quantity of [Incense] produced","May convert Incense to Myrrh or Frankincense luxury resources","[+15]% Strength <within [1] tiles of a [Desert]>","May buy [National Wonder] buildings with [Faith] for [1] times their normal Production cost"],
 
 		"declaringWar": "Let's have a nice little War, shall we?",
 		"attacked": "If you need your nose bloodied, we'll happily serve.",
@@ -527,6 +567,8 @@
 	{
 		"name": "M'Banza-Kongo",
 		"adjective": ["M'Banza-Kongo"],
+		
+		"uniques": ["Each city founded increases culture cost of policies [17]% less than normal","[-1 Happiness] [in all cities]","[+1 Faith] [in all cities] <before the [Medieval era]>"]
 
 		"declaringWar": "Do you really think you can walk over us so easily? I will not let it happen. Not to Kongo - not to my people!",
 		"attacked": "We are no strangers to war. You have strayed from the right path, and now we will correct it.",
@@ -550,6 +592,8 @@
 	{
 		"name": "Valletta",
 		"adjective": ["maltese"],
+		
+		"uniques": ["[+3 Science, +3 Culture] [in capital] <after discovering [Writing]>","[+3 Faith] from every [Great Improvement]","[+2 Faith] from every specialist [in all cities]"],
 
 		"declaringWar": "We don't like your face. To arms!",
 		"attacked": "You will see you have just bitten off more than you can chew.",
@@ -561,6 +605,9 @@
 	{
 		"name": "Jerusalem",
 		"adjective": ["Jerusalem"],
+		
+		"uniques": ["[+1 Food, +1 Faith, +1 Culture] from every [Pasture]","[+1 Faith] per [4] population [in all cities]",
+				"Receive free [Great Prophet] when you discover [Calendar]","[Great Prophet] is earned [25]% faster"],
 
 		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
 		"attacked": "May god have mercy on your evil soul.",
@@ -572,6 +619,8 @@
 		{
 		"name": "Kathmandu",
 		"adjective": ["Kathmandu"],
+			
+		"uniques": ["[Military] units gain the [Pyrrhic Victory] promotion","[+25]% Production when constructing [Military] units [in capital]","Receive free [Great General] when you discover [Bronze Working]","Receive free [Great General] when you discover [Steel]","[+1 Food] from every [Horses]","Starts with [Archery]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -584,6 +633,8 @@
 		"name": "Lhasa",
 		"translatedName": "Lhasa",
 		"adjective": ["tibetano"],
+		
+		"uniques": ["[+15]% [Gold] [in all cities connected to capital]","[+15]% [Science] <during the [Medieval era]>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -596,6 +647,8 @@
 	{
 		"name": "Bogota",
 		"adjective": ["Bogotian"],
+		
+		"uniques": ["[Land] units gain the [Crusader] promotion","Gain a free [Shrine] [in capital]","Gain a free [Shrine] [in all cities] <after discovering [Philosophy]>","Gain a free [Temple] [in all cities] <after discovering [Education]>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -607,6 +660,8 @@
 		{
 		"name": "Bucharest",
 		"adjective": ["Bucharestian"],
+			
+		"uniques": ["[+15]% [Science] [in all cities] <during a Golden Age>","[+20]% Production when constructing [Culture] buildings [in all cities]","[+50]% Production when constructing [Walls] buildings [in all cities]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -618,6 +673,8 @@
 		{
 		"name": "Buenos Aires",
 		"adjective": ["Argentinian"],
+			
+		"uniques": ["[+1 Happiness] per [2] social policies adopted","[+1 Culture] [in all cities] <in tiles without [Road]>","[+1 Food] from every [Pasture]","[+1 Gold] from every [Wheat]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -629,6 +686,9 @@
 	{
 		"name": "Kiev",
 		"adjective": ["Kievan"],
+		
+		"uniques": ["[+1 Culture] from every [Jungle]","[+1 Culture, +1 Production] from every [Marsh]",
+			    "[+2 Culture] from every [Lumber mill] <after discovering [Acoustics]>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -640,6 +700,9 @@
 	{
 		"name": "Kyzyl",
 		"adjective": ["Kyzyl"],
+		
+		"uniques": ["[+2 Gold, +2 Production] from every [Quarry]", "[+2 Production] from every [Copper]",
+			   "[+1 Gold] from every [Mine] <during a Golden Age>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -651,6 +714,8 @@
 	{
 		"name": "Monaco",
 		"adjective": ["Monaco"],
+		
+		"uniques": ["[+1 Food, +1 Culture] from [Plantation] tiles [in this city]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -662,6 +727,8 @@
 		{
 		"name": "Prague",
 		"adjective": ["Czech"],
+			
+                "uniques": ["[+1 Food] from [Farm] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>","[+1 Science, +1 Culture] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Scientific Theory]>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -673,6 +740,9 @@
 	{
 		"name": "Yerevan",
 		"adjective": ["Armenian"],
+		
+		"uniques": ["[+50]% [Gold] from every [Water resource]", 
+			"[+1 Culture] from every [Coast]","[+2 Science] from every [Atoll] <after discovering [Biology]>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -684,6 +754,10 @@
 	{
 		"name": "Mombasa",
 		"adjective": ["Mombasa"],
+		
+		"uniques": ["[+20]% Strength <vs [Barbarian] units>", "[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
+			"Earn [15]% of killed [Barbarian] unit's [Strength] as [Gold]","[+1 Faith] from every [Plantation]",
+					"[+1 Production] from every [Lumber mill]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -695,6 +769,9 @@
 		{
 		"name": "Ormus",
 		"adjective": ["Ormus"],
+			
+                "uniques": ["[+2 Production, +2 Gold] from [Bananas] tiles [in all cities]",
+			"[+1 Production, +1 Culture, +1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Bananas] tiles> <in [Improvement] tiles>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -706,6 +783,8 @@
 	{
 		"name": "Byblos",
 		"adjective": ["Phoenician"],
+		
+                "uniques": ["[+1 Culture, +1 Food] from every [Trading post] <while the empire is happy>", "[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [35] HP>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -717,6 +796,10 @@
 	{
 		"name": "Panama City",
 		"adjective": ["Panamas"],
+		
+		"uniques": ["[+1 Gold] from each Trade Route","[+1 Gold] from every [Great Improvement]","[+1 Gold] from every [Fishing Boats]",
+					"[4] free [Geologic Process] units appear <upon entering the [Classical era]>"],
+
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -728,6 +811,8 @@
 	{
 		"name": "Riga",
 		"adjective": ["Latvian"],
+		
+		"uniques": ["[+1 Production] from every specialist [in all cities]","[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -739,6 +824,8 @@
 		{
 		"name": "Ragusa",
 		"adjective": ["Ragusian"],
+			
+		"uniques": ["[+2 Culture] from each Trade Route", "[+2 Food] from every [Plantation]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -750,6 +837,12 @@
 	{
 		"name": "Wellington",
 		"adjective": ["Wellington"],
+		
+			"uniques": [
+			"uniques": ["[+1 Gold] from every [Water resource]", 
+						"[{Military} {Water}] units gain the [Supply] promotion","[+10]% [Culture] [in capital]", 
+						"[+1 Culture] from every [Plantation]",
+			],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -761,6 +854,8 @@
 	{
 		"name": "Antananarivo",
 		"adjective": ["Antananarivian"],
+		
+	      "uniques": ["[+2 Gold, +2 Food] from every [Customs house]","[+5]% [Culture] [in all cities] <during a Golden Age>","[+5]% [Science] [in all cities] <during a Golden Age>","[+5]% [Gold] [in all cities] <during a Golden Age>","[+5]% [Production] [in all cities] <during a Golden Age>","[+5]% [Faith] [in all cities] <during a Golden Age>","[+25]% Golden Age length"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -772,6 +867,12 @@
 	{
 		"name": "Colombo",
 		"adjective": ["Colombian"],
+		
+                "uniques": ["Double quantity of [Oil] produced",
+			"[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>", 
+			"[-50]% maintenance on road & railroads <with [Oil]>",
+			"[-15]% maintenance cost for buildings [in all cities] <with [Oil]>",
+			"Free [Great General] appears <upon discovering [Military Science]>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -784,6 +885,8 @@
 		"name": "Hong Kong",
 		"adjective": ["Hong Kong"],
 		"startBias": ["Coast"],
+		
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>","Enables [Water] units to enter ocean tiles <starting from the [Ancient era]>","[+1 Food] from every [Tundra]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -795,6 +898,8 @@
 	{
 		"name": "Malacca",
 		"adjective": ["Malacca"],
+		
+	      "uniques": ["[+1 Culture] from every [Coast]","[+1 Culture] from every [Ocean]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -806,6 +911,8 @@
 		{
 		"name": "Melbourne",
 		"adjective": ["Melbourne"],
+			
+			"uniques": ["Free [Worker] appears <upon defeating a [{Military} {Water}] unit>", "Great General provides double combat bonus", "[Great General] is earned [50]% faster"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -817,6 +924,8 @@
 	{
 		"name": "Samarkand",
 		"adjective": ["Samarkand"],
+		
+		"uniques": ["[+100]% unhappiness from the number of cities","Gain an extra spy <upon entering the [Renaissance era]>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -828,6 +937,8 @@
 	{
 		"name": "Vilnius",
 		"adjective": ["Lithuanian"],
+		
+		"uniques": ["Gain an extra spy <upon entering the [Industrial era]>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -917,6 +1028,8 @@
 	{
 		"name": "Wittenberg",
 		"adjective": ["Wittenbergian"],
+		
+		"uniques": ["Gain an extra spy <upon entering the [Modern era]>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -925,4 +1038,433 @@
 		"innerColor": [176, 189, 207],
 		"cities": ["Old Wittenberg","Pre Wittenberg","Wittenberg"]
 	},
+	//Latin
+	{
+		"name": "Dominican Republic",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+		
+		"uniques": ["Gain an extra spy <upon entering the [Atomic era]>"],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Santo Domingo"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Guadeloupe",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Basse-Terre"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Guatemala",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Guatemala City"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Guiana",
+		"cityStateType": "Mercantile",
+		"outerColor": [0,0,10],
+		"innerColor": [77,192,175],
+
+		"startBias": ["Coast","Jungle"],
+		"favoredReligion": "Christianity",
+
+		"defeated": "Oh well... new owner I guess...",
+
+		"cities": ["Cayenne"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Martinique",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Fort-de-France"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Nicaragua",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Managua"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Puerto Rico",
+		"adjective": ["Puerto-Rican"],
+		"outerColor": [10,0,0],
+		"innerColor": [205,57,69],
+
+		"startBias": ["Coast"],
+		"favoredReligion": "Christianity",
+
+		"introduction": "Buenas! How are you? Let's start trading!",
+		"declaringWar": "Your attempts of destruction are not forgiven",
+		"attacked": "What do you have to offer to us, if any?",
+		"defeated": "I only hope that you bring prosperity to us, at least.",
+
+		"neutralHello": "Buenas :)",
+		"hateHello": "Go away! YA!",
+		
+		"uniques": ["Gain an extra spy <upon entering the [Information era]>"],
+
+		"cities": ["San Juan"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Uruguay",
+		"adjective": ["Uruguayan"],
+		"outerColor": [0,10,0],
+		"innerColor": [52,101,216],
+
+		"startBias": ["Coast"],
+		"favoredReligion": "Christianity",
+
+		"introduction": "Well, hi! Neighbor? I hope we get along.",
+		"declaringWar": "We have no choice. War, must be.",
+		"attacked": "Very well, this will not be fruitful for you.",
+		"afterPeace": "Thank you for putting an end to this storm of doom.",
+		"defeated": "We were too weak to protect ourselves, how could we imagine otherwise",
+
+		"neutralHello": "Hi!",
+		"hateHello": "Hi...",
+
+		"cities": ["Montevideo"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	//Non-Latam City-States
+	{
+		"name": "Antigua and Barbuda",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["St John's"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Aruba",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Oranestad"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Bahamas",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Nassau"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Barbados",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Bridgetown"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Belize",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Belmopan"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Bermuda",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Hamilton"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Cayman",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["George Town"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Curacao",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Willemstad"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Dominica",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Roseau"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Greenland",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Nuuk"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Grenada",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["St George's"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Guyana",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+		"favoredReligion": "Christianity",
+
+		"introduction": "We are the sovereign nation of Guyana. May our trade commence.",
+		"declaringWar": "You are a danger... that's what says my lord...",
+		"attacked": "No no no, this can't be happening!",
+		"afterPeace": "Ufff, that was close...",
+		"defeated": "Noo, m-my sovereignty...",
+
+		"neutralHello": "Greetings",
+		"hateHello": "What do you want, you bully?",
+
+		"cities": ["Georgetown"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Jamaica",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Kingston"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Montserrat",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Brades"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "St Kitts & Nevis",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Basseterre"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Saint Lucia",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Castries"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "St Vincent & the Grenadines",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Kingstown"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+	
+		"name": "Suriname",
+		"outerColor": [0,10,0],
+		"innerColor": [75,169,81],
+
+		"startBias": ["Coast"],
+
+		"introduction": "What do my eyes see? A friend?!",
+		"declaringWar": "I'm being forced to do this. Can we be friends again afterwards?",
+		"attacked": "Nope, nope, it was not a friend... Help!!!",
+		"afterPeace": "Great! This madness is over. Can we be friends again?",
+		"defeated": "Now it's sealed that you are a bad guy",
+
+		"neutralHello": "Hello my friend!",
+		"hateHello": "No friend I see here, only danger. Go away",
+
+		"cities": ["Paramaribo"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""}
+		]
+	},
+	{
+		"name": "Trinidad & Tobago",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Port of Spain"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Turks and Caicos",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Cockburn Town"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Virgin Islands",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Road Town"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	}
 ]
