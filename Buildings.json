@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Monumentuso",
+		"culture": 50,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
 		"name": "Barrackser",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
