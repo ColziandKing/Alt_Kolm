@@ -40,7 +40,7 @@
 			{
 				"name": "Tradition Complete",
 				"uniques": ["[+15]% growth [in all cities]","Provides the cheapest [Culture] building in your first [4] cities for free",
-					"Provides a [Museum] in your first [4] cities for free",
+					"Provides a [Museum] in your first [4] cities for free","Free Social Policy",
 					"May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"]
 			}
 		]
@@ -85,7 +85,7 @@
 			},
 			{
 				"name": "Liberty Complete",
-				"uniques": ["Free Great Person"]
+				"uniques": ["Free Social Policy","Free Great Person"]
 			}
 		]
 	},
@@ -132,7 +132,7 @@
 			},
 			{
 				"name": "Honor Complete",
-				"uniques": ["Earn [10]% of killed [Military] unit's [Cost] as [Gold]","May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"]
+				"uniques": ["Free Social Policy","Earn [10]% of killed [Military] unit's [Cost] as [Gold]","May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"]
 			}
 		]
 	},{
@@ -175,7 +175,7 @@
 			},
 			{
 				"name": "Piety Complete",
-				"uniques": ["Free [Great Prophet] appears", "[+3 Culture] from every [Holy site]"]
+				"uniques": ["Free Social Policy","Free [Great Prophet] appears", "[+3 Culture] from every [Holy site]"]
 			}
 		]
 	},
@@ -223,7 +223,7 @@
 			{
 				"name": "Patronage Complete",
 				"uniques": ["[+25]% [Faith] [in all cities]","[+25]% [Food] [in all cities]","[+25]% [Happiness] [in all cities]",
-					"Influence of all other civilizations with all city-states degrades [33]% faster", 
+					"Influence of all other civilizations with all city-states degrades [33]% faster", "Free Social Policy",
 					"Triggers the following global alert: [Our influence with City-States has started dropping faster!]"]
 			} 
 		]
@@ -270,7 +270,7 @@
 			},
 			{
 				"name": "Commerce Complete",
-				"uniques": ["[+1 Gold] from every [Trading post]",
+				"uniques": ["[+1 Gold] from every [Trading post]","Free Social Policy",
 					"May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
 				]
 			}
@@ -317,7 +317,7 @@
 			},
 			{
 				"name": "Exploration Complete",
-				"uniques": ["[+3 Culture] [in all coastal cities]"]
+				"uniques": ["Free Social Policy","[+3 Culture] [in all coastal cities]"]
 			}
 		]
 	},
@@ -365,7 +365,7 @@
 			},
 			{
 				"name": "Aesthetics Complete",
-				"uniques": ["[+4 Culture] from every [Landmark]","Free Social Policy","May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"]
+				"uniques": ["Free Social Policy","[+4 Culture] from every [Landmark]","Free Social Policy","May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"]
 			}
 		]
 	},
@@ -410,7 +410,7 @@
 			},
 			{
 				"name": "Rationalism Complete",
-				"uniques": ["[1] Free Technologies",
+				"uniques": ["[1] Free Technologies","Free Social Policy",
 					"May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
 				]
 			}
@@ -455,7 +455,7 @@
 			},
 			{
 				"name": "Freedom Complete",
-				"uniques": ["[+100]% Yield from every [Great Improvement]", "[+50]% Golden Age length"]
+				"uniques": ["Free Social Policy","[+100]% Yield from every [Great Improvement]", "[+50]% Golden Age length"]
 			}
 		]
 	},
@@ -500,7 +500,7 @@
 			},
 			{
 				"name": "Autocracy Complete",
-				"uniques": ["[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>"]
+				"uniques": ["Free Social Policy","[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>"]
 			}
 		]
 	},
@@ -544,7 +544,7 @@
         },
         {
             "name": "Order Complete",
-			"uniques": ["[+1 Food, +1 Production, +1 Science, +1 Gold, +1 Culture] [in all cities]"]
+			"uniques": ["Free Social Policy","[+1 Food, +1 Production, +1 Science, +1 Gold, +1 Culture] [in all cities]"]
         }
     ]
 }
