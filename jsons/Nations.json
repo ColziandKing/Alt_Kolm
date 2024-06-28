@@ -948,6 +948,8 @@
 	{
 		"name": "Zurich",
 		"adjective": ["Zurich"],
+		
+		"uniques": ["Gain an extra spy <upon entering the [Atomic era]>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -960,6 +962,8 @@
 		"name": "Budapest",
 		"adjective": ["Budapestian"],
 
+		"uniques": ["Gain a free [Harbor] [in all coastal cities]","Starts with [Sailing]"]
+
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
@@ -970,6 +974,8 @@
 		{
 		"name": "Sofia",
 		"adjective": ["Bulgarian"],
+			
+		"uniques": ["[+1 Food] from every [Forest] <in [Fresh water] tiles>","[+1 Food] from every [Forest] <in [Hill] tiles>","[+1 Gold] from every [Lumber mill]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -981,6 +987,9 @@
 	{
 		"name": "Geneva",
 		"adjective": ["Swiss"],
+		
+	      "uniques": [
+"[+2 Food, +1 Science, +1 Culture, +1 Faith] from every [Mountain]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -992,6 +1001,8 @@
 	{
 		"name": "Ife",
 		"adjective": ["Ife"],
+		
+		"uniques": ["[+30]% Strength <when fighting units from a Civilization with more Cities than you>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -1003,6 +1014,9 @@
 	{
 		"name": "La Venta",
 		"adjective": ["Olmec"],
+		
+		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
